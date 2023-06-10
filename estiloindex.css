@@ -57,19 +57,17 @@ a:focus{
   position: absolute;
   top: 600px;
 }
+            #math{
+                position:absolute;
+                top :120px
+            }p.explicacionDeBjs{
+background-color:grey;
+font-family: 'Lobster', cursive;
+}
 #descargamath01{
                 position: absolute;
-                top: 300px;
+                top: 250px;
                background: linear-gradient(red,orange,yellow);
                border-radius: 16px;
                padding: 20px;
             }
-            a{
-                text-decoration: none;
-                font-family:orbitron;
-            }
-p.explicacionDeBjs{
-background-color:grey;
-font-family: 'Lobster', cursive;
-}
-
