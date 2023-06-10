@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body{
   background-color:rgb(26, 26, 26);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -23,7 +25,7 @@ background-color: white;
   position: fixed;
   border: 5px solid blue;
 }
-#titulo{color: black;}
+.titulo{color: black;}
 #audiomix12{
   position: absolute;
   top: 180px;
@@ -66,3 +68,8 @@ a:focus{
                 text-decoration: none;
                 font-family:orbitron;
             }
+p.explicacionDeBjs{
+background-color:grey;
+font-family: 'Lobster', cursive;
+}
+
